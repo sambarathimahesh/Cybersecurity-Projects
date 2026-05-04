@@ -1,0 +1,77 @@
+{
+  "requirements": {
+    "must_have_skills": [
+      "ids",
+      "incident response",
+      "linux",
+      "python",
+      "siem",
+      "soc",
+      "splunk",
+      "threat hunting",
+      "vulnerability management"
+    ],
+    "experience_years": "3+",
+    "certifications": [
+      "SECURITY+",
+      "CISSP"
+    ],
+    "keywords": [
+      "analyst",
+      "cissp",
+      "experience",
+      "hiring",
+      "hunting",
+      "incident",
+      "include",
+      "linux",
+      "management.",
+      "monitoring",
+      "operations.",
+      "preferred.",
+      "python",
+      "response",
+      "responsibilities",
+      "security",
+      "security+",
+      "siem",
+      "splunk",
+      "threat",
+      "vulnerability"
+    ]
+  },
+  "match_report": {
+    "score": 35.3,
+    "matched_skills": [
+      "linux",
+      "python",
+      "soc"
+    ],
+    "missing_skills": [
+      "ids",
+      "incident response",
+      "siem",
+      "splunk",
+      "threat hunting",
+      "vulnerability management"
+    ],
+    "keyword_gaps": [
+      "cissp",
+      "hiring",
+      "hunting",
+      "incident",
+      "include",
+      "management.",
+      "monitoring",
+      "operations.",
+      "preferred.",
+      "response",
+      "responsibilities",
+      "security+",
+      "siem",
+      "splunk",
+      "threat"
+    ]
+  },
+  "revised_resume": "Professional Summary: Security-focused candidate aligned with role requirements including linux, python, soc.\n\nJohn Doe\n\nSummary\nCybersecurity analyst with experience in Linux administration and SOC monitoring.\n\nSkills\nLinux, Python, Firewall, Git\n\nExperience\n- Monitored security alerts and escalated incidents.\n- Performed vulnerability scans and documented findings.\n\nTarget Skills to Emphasize (only if truthful): ids, incident response, siem, splunk, threat hunting, vulnerability management\nATS Keywords to Reflect in Experience Bullets: analyst, cissp, experience, hiring, hunting, incident, include, linux, management., monitoring, operations., preferred."
+}
