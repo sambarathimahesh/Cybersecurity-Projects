@@ -1,0 +1,11 @@
+John Doe
+
+Summary
+Cybersecurity analyst with experience in Linux administration and SOC monitoring.
+
+Skills
+Linux, Python, Firewall, Git
+
+Experience
+- Monitored security alerts and escalated incidents.
+- Performed vulnerability scans and documented findings.
